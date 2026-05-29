@@ -1,5 +1,7 @@
 # Zen-Rain
 Zen Rain | 禅意雨落
+<img width="800" height="396" alt="2026-05-2921 55 373-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/9fd6cb1f-ea5f-4431-8cc6-45ce79041288" />
+
 
 这是一个基于 MediaPipe 和 OpenCV 的手势交互项目。
 灵感来源于极简主义插画，通过自拍视角识别手部动作，实现“五指张开，雨落涟漪”的视觉效果。
